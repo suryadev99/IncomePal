@@ -1,7 +1,7 @@
 ## IncomePal
 ### Welcome 👋
 ### About 
-### Personalized Tax saving tips and Net income Calculator in your preferred language 
+### Personalized Tax saving tips and Net income Calculator in your preferred language using AI
 
 ### install next if you don't have it
 yarn add next react react-dom 
